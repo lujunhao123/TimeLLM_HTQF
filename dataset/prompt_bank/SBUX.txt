@@ -1,0 +1,1 @@
+This is a stock dataset that contains characteristics such as time,opening,highest price,lowest price,volume and closing price which is need to predict And this dataset has a very large amount of data, it could be 1 hour of time resolution. You need to accurately predict the opening price based on the many characteristics provided.

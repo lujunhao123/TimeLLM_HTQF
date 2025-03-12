@@ -1,0 +1,2 @@
+This is a dataset of electricity, household load charges, which has the electricity load of many households, and predicts one of the electricity loads based on multiple power loads, with a dataset of about 1700000,and have six features,and it is for 1-hour level
+
