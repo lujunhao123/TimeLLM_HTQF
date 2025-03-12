@@ -20,3 +20,13 @@
 
 ✅ **可视化 & 解释性**  
 - 预测结果可视化：**预测均值、不确定性区间、概率分布**  
+
+## 📚 参考文献  
+
+如果你对 TimeLLM 框架感兴趣，推荐阅读以下论文：  
+
+- Jin, Ming, et al. "**Time-LLM: Time series forecasting by reprogramming large language models**."  
+  *International Conference on Learning Representations (ICLR), 2024.*  
+  [[Paper](https://arxiv.org/abs/your-link)]  
+
+本项目基于 TimeLLM 框架，并在 KDD 2022 Wind Cup 数据集上进行了实验验证。  
